@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+	background-image: url(../img/BG.jpg);
+	background-position: top center;
+	background-size: cover;
+}
+
+footer {
+	background-color: rgb(60, 60, 60);
+	padding: 0.5% 2%;
+	color: #fff;
+	margin: 15px;
+	width: 100%;
+}
